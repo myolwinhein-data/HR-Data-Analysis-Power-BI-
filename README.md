@@ -1,2 +1,7 @@
-# HR-Data-Analysis-Power-BI-
-To identify the headcount trends and turnover metrics. This report is designed to monitor workforce stability and provide key insights.
+# HR-Data-Analysis (Power BI)
+
+## Project Objective
+I studied HR data analysis from free webiner.The project is to analysis headcounts and turnover rate.
+
+## Data Used
+
