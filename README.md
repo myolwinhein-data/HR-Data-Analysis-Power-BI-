@@ -28,8 +28,7 @@ The project is to analysis headcounts and turnover rate according to the job lev
 <img width="1615" height="818" alt="Employee Turnover" src="https://github.com/user-attachments/assets/0495e1d0-9cfc-453d-93b5-7b85316a12c8" />
 
 ## Key Insights
-- Most of Employees are from software and sales department as individual contributors.
-- They live in San Francisco and Los Angeles and work remotely.
+- Most of Employees are from software and sales department as individual contributors and live in San Francisco and Los Angeles and work remotely.
 - Most of Employees are males aged between 29 and 44 with Bachelor's and Master's Degrees. Most of those are single and Caucasian.
 - Most of Employees are leaving voluntary for better opportunities, more flexible benefits and better salary.
 - The trend is especially high among Managers and Directors and from R&D,Sales and Product departments.
